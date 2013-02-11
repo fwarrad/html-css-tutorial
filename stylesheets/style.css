@@ -1,3 +1,35 @@
 body {
   
 }
+
+header {
+  width: 100%;
+  border-bottom: 1px solid #ccc;
+  min-width: 855px;
+  min-height: 90px;
+}
+
+.container {
+  max-width: 855px; 
+  margin: auto;
+}
+
+header .logo {
+  width: 570px;
+  float: left;
+}
+
+header .nav {
+  width: 285;
+  float: right;
+}
+
+.content {
+  width: 100%;
+  min-width: 855px;
+}
+
+footer {
+  width: 100%;
+  min-width: 855px;
+}
